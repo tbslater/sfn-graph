@@ -5,3 +5,5 @@
 Implementation of the School Friendship Network (SFN) random graph using Python and NetworkX is demonstrated. For further information about SFN see the original article [here](https://doi.org/10.1371/journal.pone.0055371).
 
 > Huerta-Quintanilla R, Canto-Lugo E, Viga-de Alva D (2013) Modeling Social Network Topologies in Elementary Schools. PLOS ONE 8(2): e55371. <https://doi.org/10.1371/journal.pone.0055371>
+
+The graph has also been adapted to merge and randomly rewire between several schools.
